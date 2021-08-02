@@ -19,9 +19,9 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
 	github.com/thedevsaddam/gojsonq/v2 v2.5.2
-	github.com/xmidt-org/bascule v0.10.1
+	github.com/xmidt-org/bascule v0.10.2
 	github.com/xmidt-org/candlelight v0.0.5
-	github.com/xmidt-org/webpa-common v1.11.10-0.20210727235342-703aa9450c56
+	github.com/xmidt-org/webpa-common v1.11.10-0.20210731003421-626d6bb4dae4
 	github.com/xmidt-org/wrp-go/v3 v3.0.1
 	go.opentelemetry.io/contrib/instrumentation/github.com/gorilla/mux/otelmux v0.19.0
 	go.opentelemetry.io/otel v0.19.0
